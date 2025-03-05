@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polysimple01", "Polysimple01\Polysimple01.csproj", "{E7AF919A-D6A4-40FF-AE83-33A5E87F15BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7AF919A-D6A4-40FF-AE83-33A5E87F15BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AF919A-D6A4-40FF-AE83-33A5E87F15BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AF919A-D6A4-40FF-AE83-33A5E87F15BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AF919A-D6A4-40FF-AE83-33A5E87F15BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9F5D0E8-CE51-4F63-A541-894B6FF3264C}
+	EndGlobalSection
+EndGlobal
